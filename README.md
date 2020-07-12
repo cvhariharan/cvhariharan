@@ -1,1 +1,1 @@
-9775 is a number n so that the sum of the digits of n^{n}-1 is divisible by n.
+Why did the fireman wear red, white, and blue suspenders? ... To hold his pants up.
