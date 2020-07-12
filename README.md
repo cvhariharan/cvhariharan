@@ -1,1 +1,1 @@
-5264 is the smallest number so that it and its successor are both the product of 2 primes and the 4^{th} power of a prime.<p align="center"><img src="https://i.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy-downsized.gif"></p>
+What did the Zen Buddist say to the hotdog vendor? ... Make me one with everything.<p align="center"><img src="https://i.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy-downsized.gif"></p>
