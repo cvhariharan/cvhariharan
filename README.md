@@ -1,1 +1,1 @@
-Want to hear a chimney joke? ... Got stacks of em! First one's on the house
+9775 is a number n so that the sum of the digits of n^{n}-1 is divisible by n.
