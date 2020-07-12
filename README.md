@@ -1,1 +1,1 @@
-Where was the Declaration of Independence signed? ... At the bottom! 
+419 is the number of ways to divide a 6×6 grid of points into two sets using a straight line.
