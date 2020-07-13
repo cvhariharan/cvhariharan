@@ -1,1 +1,1 @@
-7648 is the number of ways a 10×1 rectangle can be surrounded by 10×1 rectangles.
+7852 is 1963 × 4, and each digit from 1-9 is contained in the equation exactly once.
