@@ -1,1 +1,1 @@
-2971 is the index of a prime Fibonacci number.
+628 is the sum of the squares of 4 consecutive primes.
