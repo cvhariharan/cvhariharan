@@ -1,1 +1,1 @@
-7852 is 1963 × 4, and each digit from 1-9 is contained in the equation exactly once.
+405 is a pentagonal pyramidal number.
