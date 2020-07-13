@@ -1,1 +1,1 @@
-Why are pirates called pirates? ... Because they arrr!
+7648 is the number of ways a 10×1 rectangle can be surrounded by 10×1 rectangles.
