@@ -1,1 +1,1 @@
-419 is the number of ways to divide a 6×6 grid of points into two sets using a straight line.
+Did you hear about the new restaurant on the moon? ... The food is great, but there’s just no atmosphere.
