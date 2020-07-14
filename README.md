@@ -1,1 +1,1 @@
-56 is the sum of the first six triangular numbers (making it a tetrahedral number), as well as the sum of six consecutive primes (3 + 5 + 7 + 11 + 13 + 17).
+210 is a composite number, an abundant number, and the product of the first four prime numbers (2, 3, 5, and 7), and thus a primorial.
