@@ -1,1 +1,1 @@
-628 is the sum of the squares of 4 consecutive primes.
+762 is the starting location of 999999 in the decimal expansion of p.
