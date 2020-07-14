@@ -1,1 +1,1 @@
-210 is a composite number, an abundant number, and the product of the first four prime numbers (2, 3, 5, and 7), and thus a primorial.
+3296 is the number of lines passing through at least 2 points of an 11×11 grid of points.
