@@ -1,1 +1,1 @@
-3296 is the number of lines passing through at least 2 points of an 11×11 grid of points.
+1135 is the number of ways to color the vertices of a triangle with 15 colors, up to rotation.
