@@ -1,1 +1,1 @@
-1135 is the number of ways to color the vertices of a triangle with 15 colors, up to rotation.
+104 is the smallest known number of unit line segments that can exist in the plane, 4 touching at every vertex.
