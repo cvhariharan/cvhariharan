@@ -1,1 +1,1 @@
-213 is the number of perfect squared rectangles of order 13.
+1245 is a dodecagonal pyramidal number.
