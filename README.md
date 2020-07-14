@@ -1,1 +1,1 @@
-762 is the starting location of 999999 in the decimal expansion of p.
+213 is the number of perfect squared rectangles of order 13.
