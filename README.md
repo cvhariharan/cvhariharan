@@ -1,1 +1,1 @@
-4644 is a value of n for which 7n and 9n together use each digit exactly once.
+7639 is the number of rooted ternary trees with 13 vertices.
