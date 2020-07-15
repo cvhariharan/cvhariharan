@@ -1,1 +1,1 @@
-9233 is the number of different arrangements (up to rotation and reflection) of 13 non-attacking queens on a 13×13 chessboard.
+3294 is a value of n for which 6n and 7n together use each digit exactly once.
