@@ -1,1 +1,1 @@
-3709 is a value of n for which 2n and 7n together use the digits 1-9 exactly once.
+1908 is the number of self-dual planar graphs with 22 edges.
