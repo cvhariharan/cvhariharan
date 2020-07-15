@@ -1,1 +1,1 @@
-9321 is a value of n for which n and 8n together use each digit 1-9 exactly once.
+9233 is the number of different arrangements (up to rotation and reflection) of 13 non-attacking queens on a 13×13 chessboard.
