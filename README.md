@@ -1,1 +1,1 @@
-104 is the smallest known number of unit line segments that can exist in the plane, 4 touching at every vertex.
+4644 is a value of n for which 7n and 9n together use each digit exactly once.
