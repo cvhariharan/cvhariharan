@@ -1,1 +1,1 @@
-1908 is the number of self-dual planar graphs with 22 edges.
+8591 is the number of partitions of 42 that do not contain 1 as a part.
