@@ -1,1 +1,1 @@
-2119 is a value of n for which |cos(n)| is smaller than any previous integer.
+53 is the only two digit number that is reversed in hexadecimal.
