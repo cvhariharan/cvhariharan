@@ -1,1 +1,1 @@
-213 is the number of perfect squared rectangles of order 13.
+2119 is a value of n for which |cos(n)| is smaller than any previous integer.
