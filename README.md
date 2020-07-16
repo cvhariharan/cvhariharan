@@ -1,1 +1,1 @@
-8591 is the number of partitions of 42 that do not contain 1 as a part.
+213 is the number of perfect squared rectangles of order 13.
