@@ -1,1 +1,1 @@
-53 is the only two digit number that is reversed in hexadecimal.
+1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
