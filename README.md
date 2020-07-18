@@ -1,1 +1,1 @@
-2850 is the trinomial coefficient T(10,4).
+1086 is the number of 13-hexes with reflectional symmetry.
