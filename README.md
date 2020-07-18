@@ -1,1 +1,1 @@
-376 is an automorphic number.
+2850 is the trinomial coefficient T(10,4).
