@@ -1,1 +1,1 @@
-1713 is the number of 14-iamonds with holes.
+5499 is the average of all the even 4-digit numbers.
