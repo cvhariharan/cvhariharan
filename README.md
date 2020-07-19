@@ -1,1 +1,1 @@
-1086 is the number of 13-hexes with reflectional symmetry.
+1713 is the number of 14-iamonds with holes.
