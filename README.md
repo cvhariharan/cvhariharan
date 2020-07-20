@@ -1,1 +1,1 @@
-5499 is the average of all the even 4-digit numbers.
+180000 is the approximate number of entries in The On-Line Encyclopedia of Integer Sequences as of November 2010.
