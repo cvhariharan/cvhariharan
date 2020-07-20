@@ -1,1 +1,1 @@
-180000 is the approximate number of entries in The On-Line Encyclopedia of Integer Sequences as of November 2010.
+6791 is a value of n for which n and 8n together use each digit 1-9 exactly once.
