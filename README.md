@@ -1,1 +1,1 @@
-850 is the number of trees on 14 vertices with diameter 7.
+798 is the number of ternary square-free words of length 16.
