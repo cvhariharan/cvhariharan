@@ -1,1 +1,1 @@
-6791 is a value of n for which n and 8n together use each digit 1-9 exactly once.
+850 is the number of trees on 14 vertices with diameter 7.
