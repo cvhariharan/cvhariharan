@@ -1,1 +1,1 @@
-5414 is the number of binary partitions of 43.
+5042 is the number of subsets of {1,2,3,...,16} that have a sum divisible by 13.
