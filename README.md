@@ -1,1 +1,1 @@
-798 is the number of ternary square-free words of length 16.
+5414 is the number of binary partitions of 43.
