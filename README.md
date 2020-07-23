@@ -1,1 +1,1 @@
-2275 is the sum of the first six 4^{th} powers.
+4547 is a value of n for which one more than the product of the first n primes is prime.
