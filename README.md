@@ -1,1 +1,1 @@
-5042 is the number of subsets of {1,2,3,...,16} that have a sum divisible by 13.
+2275 is the sum of the first six 4^{th} powers.
