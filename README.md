@@ -1,1 +1,1 @@
-4547 is a value of n for which one more than the product of the first n primes is prime.
+18 is a composite number, its proper divisors being 1, 2, 3, 6 and 9.
