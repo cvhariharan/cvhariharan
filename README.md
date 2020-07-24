@@ -1,1 +1,1 @@
-18 is a composite number, its proper divisors being 1, 2, 3, 6 and 9.
+7824 is a value of n for which 5n and 7n together use each digit exactly once.
