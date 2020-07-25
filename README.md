@@ -1,1 +1,1 @@
-7824 is a value of n for which 5n and 7n together use each digit exactly once.
+2243 is the smallest prime so that it and the next 2 primes are all equal to 3 (mod 8).
