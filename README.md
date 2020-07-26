@@ -1,1 +1,1 @@
-4183 is a narcissistic number in base 7.
+2910 is the number of partitions of 48 into distinct parts.
