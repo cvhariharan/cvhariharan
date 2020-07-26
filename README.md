@@ -1,1 +1,1 @@
-2910 is the number of partitions of 48 into distinct parts.
+110 is the side of the smallest square that can be tiled with distinct integer-sided squares.
