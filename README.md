@@ -1,1 +1,1 @@
-110 is the side of the smallest square that can be tiled with distinct integer-sided squares.
+240 is the smallest number with 20 divisors.
