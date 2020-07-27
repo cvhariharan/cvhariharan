@@ -1,1 +1,1 @@
-240 is the smallest number with 20 divisors.
+6917 is a value of n for which n!.
