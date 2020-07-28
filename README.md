@@ -1,1 +1,1 @@
-1040 is the number of the standard IRS tax form.
+3825 is a Kaprekar constant in base 2.
