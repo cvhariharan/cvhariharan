@@ -1,1 +1,1 @@
-6385 is the number of ways to stack 18 pennies in a line so that each penny lies on the table or on two pennies.
+2647 is the index of a prime Euclid number.
