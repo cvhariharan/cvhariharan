@@ -1,1 +1,1 @@
-3825 is a Kaprekar constant in base 2.
+6385 is the number of ways to stack 18 pennies in a line so that each penny lies on the table or on two pennies.
