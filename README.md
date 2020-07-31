@@ -1,1 +1,1 @@
-2874 is the number of multigraphs with 5 vertices and 12 edges.
+4801 is a number n for which n^{2}+1 is 6 times another square.
