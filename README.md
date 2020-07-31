@@ -1,1 +1,1 @@
-9823 is the number of centered trees with 16 vertices.
+2874 is the number of multigraphs with 5 vertices and 12 edges.
