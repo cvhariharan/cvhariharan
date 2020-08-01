@@ -1,1 +1,1 @@
-6490 is the number of ways to place 2 non-attacking bishops on a 11×11 chessboard.
+1116 is the number of 8-abolos.
