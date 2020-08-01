@@ -1,1 +1,1 @@
-4801 is a number n for which n^{2}+1 is 6 times another square.
+6490 is the number of ways to place 2 non-attacking bishops on a 11×11 chessboard.
