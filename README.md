@@ -1,1 +1,1 @@
-2671 is a value of n for which 2n and 7n together use the digits 1-9 exactly once.
+2736 is an octahedral number.
