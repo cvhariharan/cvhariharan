@@ -1,1 +1,1 @@
-2736 is an octahedral number.
+1455 is the number of subgroups of the symmetric group on 6 symbols.
