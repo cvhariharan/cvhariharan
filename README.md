@@ -1,1 +1,1 @@
-1455 is the number of subgroups of the symmetric group on 6 symbols.
+1733 is the smallest prime that contains exactly 6 smaller primes as substrings.
