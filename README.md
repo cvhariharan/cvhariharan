@@ -1,1 +1,1 @@
-1733 is the smallest prime that contains exactly 6 smaller primes as substrings.
+6273 is the number of ways to 9-color the vertices of a pentagon, up to rotations and reflections.
