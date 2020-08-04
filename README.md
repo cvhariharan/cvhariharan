@@ -1,1 +1,1 @@
-6273 is the number of ways to 9-color the vertices of a pentagon, up to rotations and reflections.
+938 is the number of lines passing through at least 2 points of an 8×8 grid of points.
