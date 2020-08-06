@@ -1,1 +1,1 @@
-2030 is the smallest number that can be written as a sum of 3 or 4 consecutive squares.
+6663 is a value of n for which s(n) is a repdigit.
