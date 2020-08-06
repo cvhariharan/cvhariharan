@@ -1,1 +1,1 @@
-7142 is the smallest number that can not be written as the sum of 2 volumes of rectangular boxes with integer dimensions less than 20.
+2030 is the smallest number that can be written as a sum of 3 or 4 consecutive squares.
