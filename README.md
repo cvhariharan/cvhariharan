@@ -1,1 +1,1 @@
-1344 is the order of a perfect group.
+969 is a tetrahedral palindrome.
