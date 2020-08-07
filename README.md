@@ -1,1 +1,1 @@
-6663 is a value of n for which s(n) is a repdigit.
+1344 is the order of a perfect group.
