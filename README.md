@@ -1,1 +1,1 @@
-936 is a pentagonal pyramidal number.
+1161 is the number of 11-iamonds without holes.
