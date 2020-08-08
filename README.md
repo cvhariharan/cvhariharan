@@ -1,1 +1,1 @@
-969 is a tetrahedral palindrome.
+936 is a pentagonal pyramidal number.
